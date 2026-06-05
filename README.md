@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @suplongv
-- 👀 I’m interested in java , c++
+- 👋 Chào cu, bố mày là @suplongv
+- 👀 Bố mày học c++, js, java
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on (suplo.io.vn)[https://www.byngv.space/]
 - 📫 How to reach me ...
